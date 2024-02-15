@@ -13,3 +13,11 @@ To be able to execute the code, we must follow these steps:
 * In CMD or a terminal, navigate to the directory where the code file "main.js" is located
   * Execute the command `node main.js`
 
+
+### Execution in Visual Studio Code
+
+Note: Have Visual Studio Code installed. You can download it here [VScode](https://code.visualstudio.com/download) (according to your operating system)
+
+* Open the file in Visual Studio Code
+* Go to the Debug section
+* Click on Run and Debug
