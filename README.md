@@ -21,3 +21,4 @@ Note: Have Visual Studio Code installed. You can download it here [VScode](https
 * Open the file in Visual Studio Code
 * Go to the Debug section
 * Click on Run and Debug
+* Select the option "Node.js"
